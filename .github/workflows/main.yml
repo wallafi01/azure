@@ -10,7 +10,7 @@ on:
 #       - main  
 
 env:
-  LOCATION: "eastus"
+  LOCATION: "centralus"
 
 permissions:
   id-token: write
